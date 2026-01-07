@@ -1,0 +1,133 @@
+{
+  "hero": {
+    "title": "Создаю цифровые миры",
+    "subtitle": "Product Designer | Creative Developer",
+    "cta": "Погрузиться"
+  },
+  "about": {
+    "manifesto": [
+      "Я создаю цифровые продукты, которые не просто работают, а завораживают.",
+      "Каждый проект — это история, рассказанная через взаимодействие, визуальный язык и безупречную производительность. Я верю в силу деталей и в то, что лучший интерфейс — тот, который чувствуется, а не только видится."
+    ],
+    "skills": [
+      {
+        "name": "ВАЙБКОДЕР",
+        "level": 100,
+        "color": "text-neon-cyan",
+        "bgColor": "bg-neon-cyan"
+      },
+      {
+        "name": "Frontend Development",
+        "level": 0,
+        "color": "text-neon-turquoise",
+        "bgColor": "bg-neon-turquoise"
+      },
+      {
+        "name": "UI/UX Design",
+        "level": 0,
+        "color": "text-neon-lime",
+        "bgColor": "bg-neon-lime"
+      },
+      {
+        "name": "3D Graphics",
+        "level": 0,
+        "color": "text-neon-purple",
+        "bgColor": "bg-neon-purple"
+      },
+      {
+        "name": "Motion Design",
+        "level": 0,
+        "color": "text-neon-orange",
+        "bgColor": "bg-neon-orange"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "Luxury E-Commerce Platform",
+      "category": "Product Design",
+      "description": "Премиум платформа для luxury брендов с immersive shopping experience",
+      "image": "/api/placeholder/800/600",
+      "tags": [
+        "React",
+        "Next.js",
+        "Three.js",
+        "GSAP"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Creative Agency Website",
+      "category": "Web Development",
+      "description": "Кинематографичный сайт с параллакс эффектами и 3D элементами",
+      "image": "/api/placeholder/800/600",
+      "tags": [
+        "Next.js",
+        "Framer Motion",
+        "Tailwind"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Mobile Banking App",
+      "category": "UX/UI Design",
+      "description": "Инновационный дизайн для финансового приложения нового поколения",
+      "image": "/api/placeholder/800/600",
+      "tags": [
+        "Figma",
+        "Prototyping",
+        "Design System"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Immersive Exhibition",
+      "category": "Interactive Design",
+      "description": "Виртуальная выставка с WebGL шейдерами и интерактивными элементами",
+      "image": "/api/placeholder/800/600",
+      "tags": [
+        "WebGL",
+        "Three.js",
+        "Shaders"
+      ]
+    }
+  ],
+  "experiences": [
+    {
+      "period": "2022 — Present",
+      "role": "Senior Product Designer",
+      "company": "Tech Innovation Lab",
+      "achievements": [
+        "Led design for 3 major product launches with 500K+ users",
+        "Established design system used across 15+ products",
+        "Increased user engagement by 40% through UX improvements"
+      ]
+    },
+    {
+      "period": "2020 — 2022",
+      "role": "Creative Developer",
+      "company": "Digital Studio",
+      "achievements": [
+        "Developed 20+ premium websites for luxury brands",
+        "Created innovative WebGL experiences for brand campaigns",
+        "Mentored junior developers and designers"
+      ]
+    },
+    {
+      "period": "2018 — 2020",
+      "role": "UI/UX Designer",
+      "company": "Startup Hub",
+      "achievements": [
+        "Designed mobile apps used by 1M+ users",
+        "Collaborated with cross-functional teams on product strategy",
+        "Won 3 design awards for innovative solutions"
+      ]
+    }
+  ],
+  "contact": {
+    "email": "hello@portfolio.com",
+    "telegram": "@username",
+    "linkedin": "linkedin.com/in/username"
+  }
+}
