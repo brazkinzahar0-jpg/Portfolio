@@ -1,0 +1,9 @@
+export default function Loading() {
+  return (
+    <div className="min-h-screen flex items-center justify-center bg-dark-primary">
+      <div className="text-neon-cyan">Загрузка...</div>
+    </div>
+  )
+}
+
+
